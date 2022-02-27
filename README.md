@@ -9,5 +9,5 @@
 
 ## 示例:
 
-![Image text](https://github.com/hnuuhc/stylish-Transparency/tree/main/img-folder/1.png)  
-![Image text](https://github.com/hnuuhc/stylish-Transparency/tree/main/img-folder/2.png)  
+![Image text](https://github.com/hnuuhc/stylish-Transparency/blob/868e74a4fafff9f5c5c3846910a825a4721a969f/img-folder/1.png)  
+![Image text](https://github.com/hnuuhc/stylish-Transparency/blob/868e74a4fafff9f5c5c3846910a825a4721a969f/img-folder/2.png)  
